@@ -6,7 +6,7 @@
 
 *:focus {
     // outline: ;
-    // outline-offset: ;
+    // outline-offset: 
 }
 
 html {
@@ -37,11 +37,13 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
+    font-size: 1.8rem;
+    line-height: 1.5;
 }
 
 .container {
     width: 100%;
-    max-width: 1200px; // *
+    max-width: 1380px; // *
     margin-left: auto;
     margin-right: auto;
     padding-left: 5rem; // *

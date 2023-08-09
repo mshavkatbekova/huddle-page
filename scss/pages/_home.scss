@@ -1,3 +1,65 @@
 main {
-    flex-grow: 1;
+  flex-grow: 1;
+  padding-top: 16.1rem;
 }
+
+.grow__together__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.07);
+  padding-top: 5.3rem;
+  padding-right: 3.2rem;
+  padding-left: 12rem;
+  padding-bottom: 5.3rem;
+}
+
+.grow__together__content {
+  width: 100%;
+  max-width: 488px;
+}
+
+.main-text {
+  margin-bottom: 1.6rem;
+}
+
+.flowing__conversations__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.07);
+  padding-top: 7rem;
+  padding-right: 7.1rem;
+  padding-left: 12rem;
+  padding-right: 2.9rem;
+}
+
+.flowing__conversations__content {
+  width: 100%;
+  max-width: 499px;
+}
+
+.flow-text {
+  margin-bottom: 1.6rem;
+}
+
+.your__users__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.07);
+  padding-top: 6rem;
+  padding-bottom: 6.1rem;
+  padding-rop: 2.5rem;
+  padding-left: 12rem;
+}
+
+.your__users__content {
+  width: 100%;
+  max-width: 420px;
+}
+
+.your-text {
+  margin-bottom: 1.6rem;
+}
+
